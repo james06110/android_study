@@ -1,6 +1,6 @@
 package com.stuart.mvpdemo.network;
 
-import com.stuart.mvpdemo.bean.MovieInfo;
+import com.stuart.mvpdemo.model.entity.MovieInfo;
 
 
 import retrofit2.http.GET;
